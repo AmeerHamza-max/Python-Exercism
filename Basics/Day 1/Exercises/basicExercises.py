@@ -43,4 +43,9 @@ num3=12
 print(f"Average of three numbers is :{(num1+num2+num3)/3}")
 
 # 14
-print(f"Convert Seconds into minutes {3600/60}")
+print(f"Convert Seconds into minutes {3600/60}");
+
+# 15
+print(f"Kilometers into meters {5*1000}")
+
+
