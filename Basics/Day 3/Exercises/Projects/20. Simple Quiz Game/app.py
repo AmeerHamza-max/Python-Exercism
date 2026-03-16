@@ -10,4 +10,4 @@ print(question4)
 score=1
 while True:
     answer=input("Enter Your answer in A B C or D = ")
-    print
+    pr
